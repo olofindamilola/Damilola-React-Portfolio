@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/FEM-Manage-landing-page.png'
-import IMG2 from '../../assets/Logistics-Website.png'
+import IMG2 from '../../assets/Local-man-website.png'
 import IMG3 from '../../assets/Parallax-Scroll Project.png'
 import IMG4 from '../../assets/Weather-app.png'
 import IMG5 from '../../assets/portfolio2.png'
@@ -21,9 +21,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Logistics Landing Page',
-    github: 'https://github.com/',
-    demo: 'http://'
+    title: 'Local-man-website',
+    github: 'https://github.com/olofindamilola/localman',
+    demo: 'https://localman.vercel.app/'
   },
   {
     id: 3,

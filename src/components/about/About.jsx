@@ -40,7 +40,7 @@ const About = () => {
               </div>  
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, atque quasi culpa labore illum minus, similique, animi nisi error cumque sint? Voluptatibus facilis beatae eveniet accusamus aliquid. Voluptatum, distinctio optio.
+              I am a frontend developer I have a strong background in creating visually appealing and user-friendly web experiences. I am motivated to find a role where I can challenge myself and provide value to website users. I am excited to bring my knowledge and experience to a team and contribute to a company's success.
               </p>
 
               <a href="#contact" className='btn btn-primary'>Let's Talk</a>

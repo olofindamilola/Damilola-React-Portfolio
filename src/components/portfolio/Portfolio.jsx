@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/FEM-Manage-landing-page.png'
 import IMG2 from '../../assets/Local-man-website.png'
-import IMG3 from '../../assets/Parallax-Scroll Project.png'
+import IMG3 from '../../assets/Drawing-App.png'
 import IMG4 from '../../assets/Weather-app.png'
 import IMG5 from '../../assets/portfolio2.png'
 import IMG6 from '../../assets/docplanner.png'
@@ -28,9 +28,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Parallax-Scroll Page',
-    github: 'https://github.com/',
-    demo: 'http://'
+    title: 'Drawing-App',
+    github: 'https://github.com/olofindamilola/Drawing-App',
+    demo: 'https://drawing-app-theta.vercel.app/'
   },
   {
     id: 4,

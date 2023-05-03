@@ -20,13 +20,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/logisticssolution/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
           <FaFacebookF />
         </a>
-        <a href="https://www.instagram.com/logisticssolution/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
-        <a href="https://www.linkedin.com/company/logistics-solution/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
           <FaLinkedinIn />
         </a>
         <a href="https://twitter.com/logisticssolution" target="_blank" rel="noopener noreferrer">
